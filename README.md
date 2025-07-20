@@ -1,4 +1,4 @@
-# 🚀 BadevGram – Clone do Instagram com HTML + CSS
+# 🚀 BadevGram – Clone do Instagram
 
 <img src="assets/BadevGran.png" width="300" alt="BadevGram logo">
 
@@ -15,8 +15,8 @@ O **BadevGram** é um projeto de front-end criado como parte dos estudos do curs
 - ✅ Página de Cadastro
 
 <p float="left">
-  <img src="" width="300" alt="Login Preview"/>
-  <img src="assets/preview-cadastro.png" width="300" alt="Cadastro Preview"/>
+  <img src="https://github.com/user-attachments/assets/28bb2a5d-cb5c-4f05-9aaa-dec1f1fd935b" width="300" alt="Login Preview"/>
+  <img src="https://github.com/user-attachments/assets/c7bbaa79-7035-4b53-a856-70ce88288d97" width="300" alt="Cadastro Preview"/>
 </p>
 
 ---
@@ -40,7 +40,4 @@ Durante o desenvolvimento do BadevGram, foram trabalhados conceitos como:
 - 🖼️ **Assets** — Logos e imagens para simular o ambiente real do Instagram  
 
 ---
-
-## 📂 Estrutura do Projeto
-
 
