@@ -15,12 +15,17 @@
 
 @media (max-width: 560px){
     #container {
-        width: 90% !important;
+        width: 98% !important;
         padding: 0 20px;
     }
 
+    .column {
+        width: 90% !important;
+        margin-left: 14px;
+    }
+
     input[type="text"], input [type="password"], input [type="submit"] {
-        width: 85%;
+        width: 80%;
         margin-bottom: 10px;
     }
 }
